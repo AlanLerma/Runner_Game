@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "3d22c6cc-f78c-44bf-8434-834b8b2803f3",
+            "Value": {
+                "id": "4db68fa2-f460-4868-99df-29a9918f7aef",
+                "resourcePath": "objects\\Block_Statick\\Block_Statick.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "41256cdd-eb1c-4dc8-bfef-192c65ac4f1a",
             "Value": {
                 "id": "c049196c-36f4-4f61-bdf2-29d64a9a37d2",
@@ -164,6 +172,14 @@
                 "id": "0ee89f1a-6a30-4025-9f00-83abfb0ea721",
                 "resourcePath": "sprites\\Mario_Agarrado\\Mario_Agarrado.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5ff97d4f-72e5-450e-8875-9424eddea145",
+            "Value": {
+                "id": "2b4287e4-8e95-40e7-a06a-5813ef11b39b",
+                "resourcePath": "objects\\Escalera\\Escalera.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -244,6 +260,14 @@
                 "id": "a4998239-5be3-48bf-b662-9976148ed010",
                 "resourcePath": "views\\9ac25f42-b8a9-43a6-8896-087644d2da54.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a05e6762-f6db-44dc-9a31-4426236bfc3a",
+            "Value": {
+                "id": "4d9bf46b-1024-4151-a355-8aa831a729ba",
+                "resourcePath": "objects\\Trayectorias\\Trayectorias.yy",
+                "resourceType": "GMObject"
             }
         },
         {
