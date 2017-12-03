@@ -1,48 +1,38 @@
 {
-    "id": "0be94df2-d2e3-4862-81fc-75e89798b9ac",
+    "id": "6da26a3a-9b69-4607-88ad-355a7f550ace",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Mario_Object",
+    "name": "Enemy_Object",
     "eventList": [
         {
-            "id": "d1451c7c-e7a2-44b7-bea3-7ffdf50b3ac9",
+            "id": "f1ce4b38-1477-41e8-bb02-48f6be898a65",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "0be94df2-d2e3-4862-81fc-75e89798b9ac"
+            "m_owner": "6da26a3a-9b69-4607-88ad-355a7f550ace"
         },
         {
-            "id": "19a8b9f9-83df-4f3d-a22b-71a16106cba5",
+            "id": "46448358-ef92-45fe-a65f-a280829e964e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
-            "collisionObjectId": "354bf0d6-de99-4565-9703-a1aaf5803395",
+            "collisionObjectId": "0be94df2-d2e3-4862-81fc-75e89798b9ac",
             "enumb": 0,
             "eventtype": 4,
-            "m_owner": "0be94df2-d2e3-4862-81fc-75e89798b9ac"
+            "m_owner": "6da26a3a-9b69-4607-88ad-355a7f550ace"
         },
         {
-            "id": "2b6b55a6-a680-40ac-b3a3-d49b1a85fcfc",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "6da26a3a-9b69-4607-88ad-355a7f550ace",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "0be94df2-d2e3-4862-81fc-75e89798b9ac"
-        },
-        {
-            "id": "92f29045-0035-44cd-bf33-f650cf9f5e87",
+            "id": "daca3aa7-12b6-43c0-bd90-7a90f3d1d584",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "8c4b340e-d579-4d60-9a10-20220edcfd3e",
             "enumb": 0,
             "eventtype": 4,
-            "m_owner": "0be94df2-d2e3-4862-81fc-75e89798b9ac"
+            "m_owner": "6da26a3a-9b69-4607-88ad-355a7f550ace"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -61,6 +51,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "00c44a10-7ce6-4b61-83eb-b422c9f490c3",
+    "spriteId": "98e7a2d4-d2bb-45ef-ab08-7ba14f726ce8",
     "visible": true
 }
