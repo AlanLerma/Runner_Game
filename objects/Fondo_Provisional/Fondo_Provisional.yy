@@ -2,7 +2,7 @@
     "id": "bf1a77ac-761d-4218-bf6a-3d2412780268",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object2",
+    "name": "Fondo_Provisional",
     "eventList": [
         {
             "id": "f4753dbf-2437-4281-b919-83cb0e13d0ca",
