@@ -18,13 +18,22 @@ if(!(place_free(x,y+1)))
 	l398C9AD3_0 = keyboard_check_pressed(vk_space);
 	if (l398C9AD3_0)
 	{
+		/// @DnDAction : YoYo Games.Instances.Set_Sprite
+		/// @DnDVersion : 1
+		/// @DnDHash : 32189AD7
+		/// @DnDParent : 398C9AD3
+		/// @DnDArgument : "spriteind" "Mario_Agarrado"
+		/// @DnDSaveInfo : "spriteind" "5dcc1cda-13a9-42df-b593-99ab0f0c631c"
+		sprite_index = Mario_Agarrado;
+		image_index = 0;
+	
 		/// @DnDAction : YoYo Games.Movement.Set_Speed
 		/// @DnDVersion : 1
 		/// @DnDHash : 07424230
 		/// @DnDParent : 398C9AD3
-		/// @DnDArgument : "speed" "-18"
+		/// @DnDArgument : "speed" "-15"
 		/// @DnDArgument : "type" "2"
-		vspeed = -18;
+		vspeed = -15;
 	}
 }
 

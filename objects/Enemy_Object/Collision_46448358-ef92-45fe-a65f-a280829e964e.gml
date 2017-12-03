@@ -9,7 +9,7 @@ if (l749E41C2_0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 5EB38EA1
 	/// @DnDParent : 749E41C2
-	/// @DnDArgument : "speed" "-100"
+	/// @DnDArgument : "speed" "-50"
 	/// @DnDArgument : "type" "2"
-	vspeed = -100;
+	vspeed = -50;
 }

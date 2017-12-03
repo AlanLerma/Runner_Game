@@ -13,6 +13,12 @@ var l6AEB8144_0;
 l6AEB8144_0 = keyboard_check(ord("R"));
 if (l6AEB8144_0)
 {
+	/// @DnDAction : YoYo Games.Audio.Stop_All_Audio
+	/// @DnDVersion : 1
+	/// @DnDHash : 2AFF6C42
+	/// @DnDParent : 6AEB8144
+	audio_stop_all();
+
 	/// @DnDAction : YoYo Games.Rooms.Restart_Room
 	/// @DnDVersion : 1
 	/// @DnDHash : 3D4F7779
