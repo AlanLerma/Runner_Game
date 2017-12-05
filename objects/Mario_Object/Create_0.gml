@@ -43,3 +43,24 @@ salto = 2;
 /// @DnDArgument : "expr" "1"
 /// @DnDArgument : "var" "score_multiply"
 score_multiply = 1;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 7B1D2CDC
+/// @DnDArgument : "expr" "layer_get_id("Background")"
+/// @DnDArgument : "var" "layer_id"
+layer_id = layer_get_id("Background");
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 65EDC713
+/// @DnDArgument : "expr" "layer_get_id("Backgrounds_1")"
+/// @DnDArgument : "var" "layer_id_2"
+layer_id_2 = layer_get_id("Backgrounds_1");
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 39DE414C
+/// @DnDArgument : "expr" "layer_background_get_id(layer_id)"
+/// @DnDArgument : "var" "background_id"
+background_id = layer_background_get_id(layer_id);
