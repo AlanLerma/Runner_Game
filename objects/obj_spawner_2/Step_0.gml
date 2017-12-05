@@ -41,9 +41,9 @@ if(next_spawn == 0)
 		/// @DnDVersion : 1
 		/// @DnDHash : 6470110E
 		/// @DnDParent : 3D836919
-		/// @DnDArgument : "expr" "((1.2)*(60))-(global.current_speed*(0.3)*(60))"
+		/// @DnDArgument : "expr" "((1.2)*(60))-(global.current_speed*(0.1)*(60))"
 		/// @DnDArgument : "var" "next_spawn"
-		next_spawn = ((1.2)*(60))-(global.current_speed*(0.3)*(60));
+		next_spawn = ((1.2)*(60))-(global.current_speed*(0.1)*(60));
 	
 		/// @DnDAction : YoYo Games.Common.Variable
 		/// @DnDVersion : 1
@@ -72,9 +72,9 @@ if(next_spawn == 0)
 			/// @DnDVersion : 1
 			/// @DnDHash : 27F1CDED
 			/// @DnDParent : 5705D320
-			/// @DnDArgument : "expr" "((1.2)*(60))-(global.current_speed*(0.3)*(60))"
+			/// @DnDArgument : "expr" "((1.2)*(60))-(global.current_speed*(0.1)*(60))"
 			/// @DnDArgument : "var" "next_spawn"
-			next_spawn = ((1.2)*(60))-(global.current_speed*(0.3)*(60));
+			next_spawn = ((1.2)*(60))-(global.current_speed*(0.1)*(60));
 		
 			/// @DnDAction : YoYo Games.Common.Variable
 			/// @DnDVersion : 1
@@ -114,9 +114,9 @@ if(next_spawn == 0)
 				/// @DnDVersion : 1
 				/// @DnDHash : 675AC934
 				/// @DnDParent : 6C06615E
-				/// @DnDArgument : "expr" "((1.2)*(60))-(global.current_speed*(0.3)*(60))"
+				/// @DnDArgument : "expr" "((1.2)*(60))-(global.current_speed*(0.1)*(60))"
 				/// @DnDArgument : "var" "next_spawn"
-				next_spawn = ((1.2)*(60))-(global.current_speed*(0.3)*(60));
+				next_spawn = ((1.2)*(60))-(global.current_speed*(0.1)*(60));
 			
 				/// @DnDAction : YoYo Games.Common.Variable
 				/// @DnDVersion : 1
@@ -155,9 +155,9 @@ if(next_spawn == 0)
 					/// @DnDVersion : 1
 					/// @DnDHash : 13BF0048
 					/// @DnDParent : 0D364617
-					/// @DnDArgument : "expr" "((1.2)*(60))-(global.current_speed*(0.3)*(60))"
+					/// @DnDArgument : "expr" "((1.2)*(60))-(global.current_speed*(0.1)*(60))"
 					/// @DnDArgument : "var" "next_spawn"
-					next_spawn = ((1.2)*(60))-(global.current_speed*(0.3)*(60));
+					next_spawn = ((1.2)*(60))-(global.current_speed*(0.1)*(60));
 				
 					/// @DnDAction : YoYo Games.Common.Variable
 					/// @DnDVersion : 1

@@ -31,11 +31,13 @@ if(player_state == 1)
 	/// @DnDArgument : "var" "obj_spawner.song_life"
 	obj_spawner.song_life = obj_spawner.song_life-1;
 
-	/// @DnDAction : YoYo Games.Rooms.Restart_Room
+	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 	/// @DnDVersion : 1
-	/// @DnDHash : 50DD64B2
+	/// @DnDHash : 30D07F1D
 	/// @DnDParent : 3FC267ED
-	room_restart();
+	/// @DnDArgument : "room" "Menu"
+	/// @DnDSaveInfo : "room" "1de4ea50-2f8e-428f-89ad-1178807645ec"
+	room_goto(Menu);
 }
 
 /// @DnDAction : YoYo Games.Common.Variable

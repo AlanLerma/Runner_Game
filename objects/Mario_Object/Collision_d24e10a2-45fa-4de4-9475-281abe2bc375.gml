@@ -15,9 +15,9 @@ global.current_speed = global.current_speed+0.1;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 5856ADA1
-/// @DnDArgument : "expr" "audio_pitch+global.current_speed*(0.01)"
+/// @DnDArgument : "expr" "audio_pitch+global.current_speed*(0.005)"
 /// @DnDArgument : "var" "audio_pitch"
-audio_pitch = audio_pitch+global.current_speed*(0.01);
+audio_pitch = audio_pitch+global.current_speed*(0.005);
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
