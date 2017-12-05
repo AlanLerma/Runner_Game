@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
 /// @DnDHash : 59C22C6E
-/// @DnDArgument : "value" "global.spawn_object_speed-1.5"
+/// @DnDArgument : "value" "global.spawn_object_speed-0.5"
 /// @DnDArgument : "var" "spawn_object_speed"
-global.spawn_object_speed = global.spawn_object_speed-1.5;
+global.spawn_object_speed = global.spawn_object_speed-0.5;
 
 /// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
